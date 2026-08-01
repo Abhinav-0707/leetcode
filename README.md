@@ -5,12 +5,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav-0707/leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav-0707/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
@@ -34,6 +36,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
