@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav-0707/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhinav-0707/leetcode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhinav-0707/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
