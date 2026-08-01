@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -53,6 +54,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
