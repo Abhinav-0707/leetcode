@@ -27,6 +27,7 @@
 | [0002-add-two-numbers](https://github.com/Abhinav-0707/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhinav-0707/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Abhinav-0707/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav-0707/leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Abhinav-0707/leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
@@ -85,5 +87,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Abhinav-0707/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
