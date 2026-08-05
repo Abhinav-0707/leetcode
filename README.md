@@ -9,6 +9,7 @@
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav-0707/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/Abhinav-0707/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Abhinav-0707/leetcode/tree/master/3310-remove-methods-from-project) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Abhinav-0707/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
