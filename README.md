@@ -39,6 +39,7 @@
 | [0509-fibonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhinav-0707/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav-0707/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
@@ -113,4 +114,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-0707/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav-0707/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
