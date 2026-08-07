@@ -40,6 +40,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhinav-0707/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav-0707/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -118,4 +120,16 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Abhinav-0707/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
