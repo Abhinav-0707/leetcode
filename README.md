@@ -65,6 +65,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhinav-0707/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
 |  |
@@ -76,12 +77,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav-0707/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhinav-0707/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhinav-0707/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhinav-0707/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
