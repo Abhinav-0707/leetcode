@@ -12,6 +12,7 @@
 | [1140-stone-game-ii](https://github.com/Abhinav-0707/leetcode/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Abhinav-0707/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav-0707/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhinav-0707/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav-0707/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhinav-0707/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -57,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav-0707/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhinav-0707/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
