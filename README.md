@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav-0707/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhinav-0707/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -60,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhinav-0707/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Abhinav-0707/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
@@ -71,6 +73,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhinav-0707/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
@@ -139,6 +142,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Abhinav-0707/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
