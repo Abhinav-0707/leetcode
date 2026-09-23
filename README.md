@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-0707/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -87,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav-0707/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
@@ -94,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -172,4 +175,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-0707/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Abhinav-0707/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
