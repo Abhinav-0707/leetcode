@@ -76,6 +76,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-0707/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Abhinav-0707/leetcode/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
