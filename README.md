@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Abhinav-0707/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhinav-0707/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhinav-0707/leetcode/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/Abhinav-0707/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Abhinav-0707/leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Abhinav-0707/leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhinav-0707/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -219,4 +221,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinav-0707/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Abhinav-0707/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
