@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Abhinav-0707/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-0707/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Abhinav-0707/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abhinav-0707/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhinav-0707/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhinav-0707/leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abhinav-0707/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Abhinav-0707/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhinav-0707/leetcode/tree/master/0231-power-of-two) |
@@ -77,6 +79,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhinav-0707/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Abhinav-0707/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Abhinav-0707/leetcode/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhinav-0707/leetcode/tree/master/0412-fizz-buzz) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Abhinav-0707/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
