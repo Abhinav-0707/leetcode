@@ -86,6 +86,7 @@
 | [0006-zigzag-conversion](https://github.com/Abhinav-0707/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Abhinav-0707/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhinav-0707/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abhinav-0707/leetcode/tree/master/0125-valid-palindrome) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhinav-0707/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Abhinav-0707/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Abhinav-0707/leetcode/tree/master/0509-fibonacci-number) |
@@ -164,6 +166,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Abhinav-0707/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Abhinav-0707/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Abhinav-0707/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## String Matching
