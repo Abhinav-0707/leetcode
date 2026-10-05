@@ -43,6 +43,7 @@
 | [0002-add-two-numbers](https://github.com/Abhinav-0707/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Abhinav-0707/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Abhinav-0707/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Abhinav-0707/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Abhinav-0707/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Abhinav-0707/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abhinav-0707/leetcode/tree/master/0231-power-of-two) |
@@ -140,6 +141,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abhinav-0707/leetcode/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Abhinav-0707/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhinav-0707/leetcode/tree/master/0268-missing-number) |
 ## Depth-First Search
